@@ -1,0 +1,2 @@
+Semester : 1 course id : hs507	grade : NA
+Semester : 7 course id : cs303	grade : B
